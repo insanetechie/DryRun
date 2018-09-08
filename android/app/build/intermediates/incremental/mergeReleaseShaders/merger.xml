@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/sathya/Desktop/MobApps/Testing/ReactNative/DryRun/android/app/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/sathya/Desktop/MobApps/Testing/ReactNative/DryRun/android/app/src/release/shaders"/></dataSet></merger>
